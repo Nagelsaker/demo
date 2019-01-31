@@ -1,6 +1,6 @@
 #indlue<stdio.h>
 
 int main() {
-	printf("Heisann verden!\n");
+	printf("Hello wordl!\n");
 	return 0;
 }
